@@ -1,0 +1,39 @@
+html {
+    background-image: linear-gradient(0.45turn, #79d3fa, #ebf8e1, #79d3fa);
+    background-repeat: no-repeat;   
+}
+
+body {
+    margin: 2vw 2vw 2vw 2vw;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.5em;
+}
+
+h1 {
+    margin-left: 1vw;
+}
+
+h2 {
+    margin-left: 2vw;
+}
+
+h3, h4 {
+    margin-left: 4vw;
+}
+
+footer {
+    margin: 30px 20px 30px 10vw;
+}
+
+.link2 {
+    margin-left: 60vw;
+}
+
+.photo {
+    width: 40vw;
+    height: 400px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 5px white);
+    float: right;
+    margin-right: 3vw;
+}

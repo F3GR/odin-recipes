@@ -1,19 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="pages-style.css" rel="stylesheet" />
+    <style>
+        html {
+            height: 100%;
+        }
+        h1 {
+            text-align: center;
+        }
+        li {
+            list-style-type: '👉';
+            margin-left: 15vw;
+        }
+        .main-page {
+            width: 100px;
+            margin-left: 50px;
+        }
+    </style>
     <title>Odin Recipes</title>
 </head>
 
 <body>
-
-    <h1>Odin Recipes</h1>
-    <h2><a href="recipes/Adjarian_khachapuri.html">Adjarian khachapuri</a></h2>
-    <h2><a href="recipes/Imeretian_khachapuri.html">Imeruli (Imeretian) khachapuri</a></h2>
-    <h2><a href="recipes/Penovani_khachapuri.html">Penovani khachapuri</a></h2>
-
-    <img src="https://www.theodinproject.com/mstile-310x310.png" 
-    alt ="Odin's Logo" />
-
+    <h1>Odin Recipes<img class="main-page" src="https://www.theodinproject.com/mstile-310x310.png" 
+    alt ="Odin's Logo" /></h1>
+    <ul>
+        <li><h2><a href="./pages/Adjarian_khachapuri.html">Adjarian khachapuri</a></h2></li>
+        <li><h2><a href="./pages/Imeretian_khachapuri.html">Imeruli (Imeretian) khachapuri</a></h2></li>
+        <li><h2><a href="./pages/Penovani_khachapuri.html">Penovani khachapuri</a></h2></li>
+    </ul>
 </body>
 </html>
