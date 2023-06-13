@@ -1,10 +1,10 @@
-Odin would really like to try Georgian khachapuries!
+Odin would really like to try Georgian cuisine!
 
-Especially these ones:
+Especially these dishes:
 1. Adjarian khachapuri;
-2. Penovani khachapuri;
-3. Imeretian khachapuri.
+2. Khinkali;
+3. Satsivi;
+4. Pineapple pizza(?).
 
-The main page includes links to the their brief descriptions and step-by-step recipes.
 
 
