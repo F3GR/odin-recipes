@@ -1,16 +1,15 @@
 The project was created using applications:
     - Linux Xubuntu (by Canonical Ltd., https://canonical.com/);
     - Google Chrome (by Google LLC, https://about.google/);
-    - Bing Image Creator (by Microsoft Corporation, https://www.microsoft.com/en-us/about);
     - Visual Studio Code (by Microsoft Corporation, https://www.microsoft.com/en-us/about);
     - Git (by Linus Torvalds, https://www.linkedin.com/in/linustorvalds/);
     - GitHub (by Microsoft Corporation, https://www.microsoft.com/en-us/about);
     - Firefox (by Mozilla Foundation, https://foundation.mozilla.org/en/);
-    - LibreOffice (by The Document Foundation, https://www.documentfoundation.org/).
+    - LibreOffice (by The Document Foundation, https://www.documentfoundation.org/);
+    - Bing Image Creator (by Microsoft Corporation, https://www.microsoft.com/en-us/about);
 
 
-
-The project was built with using external media files:
+The project was created using external media files:
     1. images/originals/adjarian-khachapuri.jpg:
 "Adjaruli Khachapuri, a georgian bread filled with cheese and eggs" by Themightyquill; 
 source file - https://commons.wikimedia.org/wiki/File:Adjaruli_Khachapuri.jpg;

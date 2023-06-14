@@ -95,11 +95,38 @@ ol li {
 }
 
 footer {
-    margin: 3vw 3vw 2vw 3vw;
+    margin: 0 0vw 2vw 0vw;
+    height: 5vw;
+    text-align: top;
+    position: relative;
 }
 
-.link2 {
-    margin-left: 60vw;
+.link-home {
+    height: 5vw;
+    display: inline-block;
+    position: absolute;
+    margin-left: 15vw;
+    padding: 0.8vw 1vw 1vw 1vw;
+    font-size: 3rem;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.801);
+    text-decoration-line: none;
+    border: 0.2vw solid #000000;
+    border-radius: 1vw 2vw 1vw 2vw;
 }
+
+.link-backwards, .link-forward {
+    height: 5vw;
+}
+
+.link-backwards {
+    transform: rotate(180deg);
+}
+
+.link-forward {
+    position: absolute;
+    margin-left: 52vw;
+}
+
 
 
