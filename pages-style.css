@@ -22,6 +22,7 @@ body {
     padding-top: 8vw;
     padding-left: 8vw;
     padding-right: 8vw;
+    padding-bottom: 3vw;
     font-weight: 900;
     font-family: Brush Script MT, sans-serif;
     background-image: url("./images/paper-body.jpg");
@@ -95,7 +96,6 @@ ol li {
 }
 
 footer {
-    margin: 0 0vw 2vw 0vw;
     height: 5vw;
     text-align: top;
     position: relative;
