@@ -6,35 +6,68 @@
     <meta name="author" content="F3GR" />
     <link href="pages-style.css" rel="stylesheet" />
     <style>
-        html {
-            height: 100%;
+        html, body {
+            height: auto;
+            width: auto;
+            
         }
-        .main-page {
-            filter: drop-shadow(0 0 10px rgb(71, 70, 70))
+        body {
+            margin: 2vw 2vw 2vw 2vw;
+            background: none;
+        }
+        .head-box {
+            filter: drop-shadow(0 0 10px rgb(71, 70, 70));
+            padding: 2vw;
+        }
+        .head-box img {
+            width: 100px;
         }
         h1 {
-            text-align: center;
+            display: inline-block;
+            margin-left: 30vw;
+            font-size: 48px;
         }
-        li {
-            list-style-type: '👉';
-            margin-left: 15vw;
+        .box-1 {
+            display: flex;
+            margin-left: 5vw;
+            margin-bottom: 0vw;
         }
-        .main-page {
-            width: 100px;
-            margin-left: 50px;
+        .box-2 {
+            display: flex;
+            margin-left: 5vw;
         }
     </style>
     <title>Odin Recipes</title>
 </head>
 
 <body>
-    <h1>Odin Recipes<img class="main-page" src="https://www.theodinproject.com/mstile-310x310.png" 
-    alt ="The Odin Project official Logo" title="Go to The Odin Project's official website" /></h1>
-    <ul>
-        <li><h2><a href="./recipes/adjarian-khachapuri.html" title="Adjarian khachapuri">Adjarian khachapuri</a></h2></li>
-        <li><h2><a href="./recipes/khinkali.html" title="Khinkali">Khinkali</a></h2></li>
-        <li><h2><a href="./recipes/satsivi.html" title="Satsivi">Satsivi</a></h2></li>
-        <li><h2><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Pineapple pizza">Pineapple pizza</a></h2></li>
-    </ul>
+    <div class="head-box">
+        <h1>Odin Recipes</h1>
+        <a href="https://www.theodinproject.com/">
+        <img src="https://www.theodinproject.com/mstile-310x310.png" 
+        alt ="The Odin Project official Logo" title="Go to The Odin Project's official website" />
+        </a>
+    </div>
+    <div class="box-1">
+        <h2>
+            <a href="./recipes/adjarian-khachapuri.html" title="Adjarian khachapuri">
+                <img class="main-page" src="./images/adjarian-khachapuri-cut.jpg" />
+            </a></h2>
+
+        <h2>
+            <a href="./recipes/khinkali.html" title="Khinkali">
+                <img class="main-page" src="./images/khinkali-cut.jpg" />
+            </a></h2>
+    </div>
+    <div class="box-2">
+        <h2>
+            <a href="./recipes/satsivi.html" title="Satsivi">
+                <img class="main-page" src="./images/satsivi-cut.jpg" />
+            </a></h2>
+        <h2>
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Pineapple pizza">
+                <img class="main-page" src="./images/pineapple-pizza-cut.jpg" />                
+            </a></h2>
+    </div>
 </body>
 </html>
