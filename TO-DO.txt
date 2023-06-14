@@ -1,0 +1,7 @@
+Add responsiveness to the site;
+
+Add some interactiveness and scripts;
+
+Refactor CSS, HTML, JS;
+
+Add more attributions (if necessary)

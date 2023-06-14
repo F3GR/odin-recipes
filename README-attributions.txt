@@ -26,4 +26,8 @@ license - https://creativecommons.org/licenses/by-sa/4.0/
 "Satsivi Aragvi 832 Sheppard Ave W, Toronto" by Sandra C, profile - https://www.flickr.com/people/27935231@N00;
 source file - https://commons.wikimedia.org/wiki/File:Satsivi,_Restaurant_Aragvi.jpg;
 license - https://creativecommons.org/licenses/by-sa/2.0/
+    5. https://www.theodinproject.com/mstile-310x310.png:
+ "Odin Logo" by Erik Trautman, profile - https://github.com/eriktrautman;
+ source file - https://www.theodinproject.com/mstile-310x310.png;
+ license - https://creativecommons.org/licenses/by-nc-sa/4.0/
 
